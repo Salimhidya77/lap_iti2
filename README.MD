@@ -10,3 +10,6 @@ git tag --list
 4-How to delete tag ?
 git tag --delete + tag name
 
+![WhatsApp Image 2023-12-09 at 15 12 52_2a3d1599](https://github.com/user-attachments/assets/2a075c6f-fea9-4fa6-a423-5eaad3fb6d0a)
+
+
